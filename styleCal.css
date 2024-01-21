@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+.card{
+    margin: 0 auto;
+    max-width: 350px;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 black;
+    font-size: 0;
+}
+.card:hover{
+    box-shadow: 0 10px 18px 0 black;
+
+}
+
+ .cal-head #result{
+    width: 335px;
+    height:100px;
+    font-size: 28px;
+    text-align: right;
+    
+}
+.btn{
+    width:87px;
+    height: 70px;
+    font-weight: bold;
+    background-color: aqua;
+}
+.btn:hover{
+    background-color: blueviolet;
+}
